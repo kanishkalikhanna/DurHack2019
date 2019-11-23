@@ -2,7 +2,6 @@ import transaction_classifier
 import target_spend_generator
 
 accounts = {}
-transactions = {}
 accounts_smart_scores = {}
 accounts_overall_smart_score = {}
 
@@ -23,5 +22,5 @@ for account_smart_scores in accounts_smart_scores:
     accounts_overall_smart_score[account_smart_scores] = account_overall_smart_score
 
 
-for transaction in transactions:
-
+for account in account_overall_smart_score:
+    print("Account: " + account.get_id() + " has overall smart score of: " + account_overall_smart_score[account])
