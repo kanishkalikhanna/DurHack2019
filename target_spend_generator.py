@@ -2,13 +2,11 @@
 import csv
 import statistics
 
-people = {}
-
 
 class Account:
 
-    def __init__(self, id):
-        self.id = id
+    def __init__(self, account_id):
+        self.account_id = account_id
         self.number_months_active = 1
         self.total_income = 0
         self.expected_income = 0
@@ -20,7 +18,7 @@ class Account:
         self.ideal_leisure_expenditure = 0
 
     def get_id(self):
-        return self.id
+        return self.account_id
 
     def get_ideal_food_expenditure(self):
         return self.ideal_food_expenditure
@@ -51,7 +49,7 @@ class Account:
         self.ideal_leisure_expenditure = statistics.median(self.monthly_leisure_expenditure)
 
 
-def scan_csv(file_name):
+def scan_csv(file_name, people):
 
     with open(file_name) as file:
 
@@ -84,15 +82,15 @@ def scan_csv(file_name):
                 person_to_manipulate.update_ideal_leisure_expenditure(float(row_leisure_expenditure))
 
 
-def print_each_person():
+def print_each_accounts(accounts):
 
-    for p in people.values():
-        print("Account " + p.get_id())
-        print("Ideal food expenditure: " + str(p.get_ideal_food_expenditure()))
-        print("Ideal accommodation expenditure: " + str(p.get_ideal_accommodation_expenditure()))
-        print("Ideal Leisure expenditure: " + str(p.get_ideal_leisure_expenditure()))
+    for a in accounts.values():
+        print("Account " + a.get_id())
+        print("Ideal food expenditure: " + str(a.get_ideal_food_expenditure()))
+        print("Ideal accommodation expenditure: " + str(a.get_ideal_accommodation_expenditure()))
+        print("Ideal Leisure expenditure: " + str(a.get_ideal_leisure_expenditure()))
 
 
 scan_csv("consumer_spending.csv")
 
-print_each_person()
+print_each_accounts()
