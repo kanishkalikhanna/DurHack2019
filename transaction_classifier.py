@@ -1,7 +1,7 @@
 # Author: Mohamed Hammeda
 import csv
-import statistics
-
+from math import e
+from math import pi
 
 class Transaction:
 
@@ -14,29 +14,23 @@ class Transaction:
         self.month = month
 
         account = accounts[account_id]
-        multiplier = float(necessity) / 100
+        multiplier = (100 * (e ** (-0.01 * float(e ** (100.0 / float(float(necessity) + 1.0))))))
         fraction = 0
 
         if group == "grocery" or account == "fine dining" or account == "fast food":
             expenditure = account.get_monthly_food_expenditure()
-
             total_expenditure = sum(expenditure)
-
-            fraction = total_expenditure / float(amount)
+            fraction = (e ** (float(amount) / total_expenditure)) / (pi ** (float(amount) / total_expenditure))
 
         elif group == "rent" or group == "utility bills":
             expenditure = account.get_monthly_accommodation_expenditure()
-
             total_expenditure = sum(expenditure)
-
-            fraction = total_expenditure / float(amount)
+            fraction = (e ** (float(amount) / total_expenditure)) / (pi ** (float(amount) / total_expenditure))
 
         elif group == "travelling" or group == "gym" or group == "movies":
             expenditure = account.get_monthly_food_expenditure()
-
             total_expenditure = sum(expenditure)
-
-            fraction = total_expenditure / float(amount)
+            fraction = (e ** (float(amount) / total_expenditure)) / (pi ** (float(amount) / total_expenditure))
 
         smart_score = multiplier * fraction
 
