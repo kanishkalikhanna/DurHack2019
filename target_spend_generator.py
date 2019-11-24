@@ -2,6 +2,7 @@
 import csv
 import statistics
 import numpy as np
+
 class Account:
 
     def __init__(self, account_id):
@@ -27,6 +28,15 @@ class Account:
 
     def get_ideal_leisure_expenditure(self):
         return self.ideal_leisure_expenditure
+
+    def get_monthly_food_expenditure(self):
+        return self.monthly_food_expenditure
+
+    def get_monthly_accommodation_expenditure(self):
+        return self.monthly_accommodation_expenditure
+
+    def get_monthly_leisure_expenditure(self):
+        return self.monthly_leisure_expenditure
 
     def increment_number_months_active(self):
         self.number_months_active += 1

@@ -5,7 +5,7 @@ accommodation_sub_type = ["rent", "utilities"]
 leisure_sub_type = ["travelling", "movies", "gym"]
 
 
-def generate_data (file_name):
+def generate_data(file_name):
 
     monthly_spending = open(file_name)
     make_transactions = open("transactions.csv", "w")

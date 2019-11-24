@@ -2,7 +2,7 @@ import csv
 from matplotlib.pylab import *
 import matplotlib.style as style
 from matplotlib.backends.backend_pdf import PdfPages
-
+from fpdf import FPDF
 
 style.use('bmh')
 style.use('grayscale')
@@ -80,12 +80,20 @@ def sum_different_expenditures(person_id):
             sum_each_month.append(food_exp[person] + accom_exp[person] + leisure_exp[person])
     return income_for_person, sum_each_month
 
-
 for i in range(1, len(set(user_id)) + 1):
     plot_expenditure_for_each_person(i)
     plot_savings_for_each_person(i)
 
 pdf = PdfPages("graphs.pdf")
+fpdf = FPDF()
+i = 0
 for fig in figures:
+    # if i%2 == 0:
+    #     fpdf.add_page()
+    #     fpdf.set_xy(0,0)
+    #     fpdf.set_font("arial",'B', 30)
+    #     fpdf.cell(txt = ("User " + str(i//2 + 1)))
+    #     fpdf.output('graphs.pdf', 'F')
     fig.savefig(pdf, format = 'pdf')
+    # i += 1
 pdf.close()
