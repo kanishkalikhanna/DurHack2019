@@ -54,7 +54,7 @@ def plot_expenditure_for_each_person(person_id):
     plt.xticks(rotation=30)
     ylabel("£", rotation=0)
     xlabel("Months")
-    title("Monthly Total Expenditure and Income")
+    title("Monthly Total Expenditure and Income for person " + str(person_id))
     figures.append(fig)
     plt.show()
 
@@ -67,7 +67,7 @@ def plot_savings_for_each_person(person_id):
     plt.plot(months_ordered, savings, figure = fig)
     plt.xticks(rotation=30)
     ylabel("%", rotation = 0)
-    title("Savings as % of Income")
+    title("Savings as % of Income for person " + str(person_id))
     figures.append(fig)
     plt.show()
 
@@ -85,15 +85,6 @@ for i in range(1, len(set(user_id)) + 1):
     plot_savings_for_each_person(i)
 
 pdf = PdfPages("graphs.pdf")
-fpdf = FPDF()
-i = 0
 for fig in figures:
-    # if i%2 == 0:
-    #     fpdf.add_page()
-    #     fpdf.set_xy(0,0)
-    #     fpdf.set_font("arial",'B', 30)
-    #     fpdf.cell(txt = ("User " + str(i//2 + 1)))
-    #     fpdf.output('graphs.pdf', 'F')
     fig.savefig(pdf, format = 'pdf')
-    # i += 1
 pdf.close()

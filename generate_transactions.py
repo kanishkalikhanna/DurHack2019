@@ -6,7 +6,7 @@ leisure_sub_type = ["travelling", "movies", "gym"]
 
 
 def generate_data(file_name):
-
+    random.seed(100)
     monthly_spending = open(file_name)
     make_transactions = open("transactions.csv", "w")
     make_transactions.write("ID,MONTH,NECESSITY,SUB TYPE,AMOUNT")
