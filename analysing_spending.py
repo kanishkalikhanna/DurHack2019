@@ -32,7 +32,6 @@ except FileNotFoundError:
     print("File not found")
     sys.exit(0)
 
-
 def plot_for_each_person(person_id):
     income_for_person = []
     sum_each_month = []
@@ -74,7 +73,6 @@ def sum_different_expenditures(person_id):
             income_for_person.append(income[person])
             sum_each_month.append(food_exp[person] + accom_exp[person] + leisure_exp[person])
     return income_for_person, sum_each_month
-
 
 for i in range(1, len(set(user_id)) + 1):
     plot_for_each_person(i)

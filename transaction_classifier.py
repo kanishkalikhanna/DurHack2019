@@ -1,7 +1,6 @@
 # Author: Mohamed Hammeda
 import csv
 
-
 class Transaction:
 
     def __init__(self, transaction_id, account_id, amount, necessity, accounts, group, month):
