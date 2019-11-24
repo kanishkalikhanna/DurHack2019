@@ -50,26 +50,30 @@ def plot_for_each_person(person_id):
     barplot[x_pos].set_color('aqua')
     plt.plot(months_ordered, income_for_person)
     plt.xticks(rotation=30)
-    ylabel("£", rotation=90)
+    ylabel("£", rotation=0)
     xlabel("Months")
     plt.show()
 
 
 def plot_savings_for_each_person(person_id):
-    income_for_person = []
-    sum_each_month = []
+    income_for_person, sum_each_month = sum_different_expenditures(person_id)
     savings = []
-    for person in range(len(user_id)):
-        if user_id[person] == person_id:
-            income_for_person.append(income[person])
-            sum_each_month.append(food_exp[person] + accom_exp[person] + leisure_exp[person])
     for j in range(len(income_for_person)):
         savings.append(((income_for_person[j] - sum_each_month[j]) / income_for_person[j]) * 100)
     plt.plot(months_ordered, savings)
     plt.xticks(rotation=30)
-    ylabel("%")
-    title("Savings")
+    ylabel("%", rotation = 0)
+    title("Savings as % of Income")
     plt.show()
+
+def sum_different_expenditures(person_id):
+    income_for_person = []
+    sum_each_month = []
+    for person in range(len(user_id)):
+        if user_id[person] == person_id:
+            income_for_person.append(income[person])
+            sum_each_month.append(food_exp[person] + accom_exp[person] + leisure_exp[person])
+    return income_for_person, sum_each_month
 
 
 for i in range(1, len(set(user_id)) + 1):
