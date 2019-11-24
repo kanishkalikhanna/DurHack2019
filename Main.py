@@ -1,5 +1,6 @@
 import transaction_classifier
 import target_spend_generator
+import generate_transactions
 import os
 
 os.system("python3 analysing_spending.py")
@@ -10,6 +11,7 @@ accounts_smart_scores = {}
 accounts_overall_smart_score = {}
 
 target_spend_generator.scan_csv("consumer_spending.csv", accounts)
+generate_transactions.generate_data("consumer_spending.csv")
 transaction_classifier.scan_csv("transactions.csv", transactions, accounts, accounts_smart_scores)
 
 print('After analysing transaction data \n')
@@ -32,4 +34,4 @@ for account_smart_scores in accounts_smart_scores:
 
 for account in accounts_overall_smart_score:
     print("Account: " + accounts[account].get_id() + " has overall smart score of: " +
-          str(round(accounts_overall_smart_score[account],2)))
+          str(round(accounts_overall_smart_score[account], 2)))

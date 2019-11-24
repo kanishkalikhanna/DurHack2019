@@ -1,872 +1,889 @@
 ID,MONTH,NECESSITY,SUB TYPE,AMOUNT
-1,January,8,fast food,39
-1,January,90,fast food,50
-1,January,80,fast food,21
-1,January,7,fine dining,43
-1,January,20,grocery,49
-1,January,22,fine dining,5.48
-1,January,14,rent,390.7
-1,January,14,utilities,538.73
-1,January,61,gym,95
-1,January,39,gym,130
-1,January,59,travelling,128
-1,January,96,movies,135
-1,January,0,travelling,70.6
-1,February,28,fine dining,54
-1,February,57,grocery,38
-1,February,58,fine dining,51
-1,February,59,fine dining,35
-1,February,31,fast food,34
-1,February,74,fine dining,27.4
-1,February,13,rent,387.83
-1,February,13,utilities,474.92
-1,February,53,movies,104
-1,February,59,gym,143
-1,February,46,movies,73
-1,February,1,gym,147
-1,February,38,movies,123.52
-1,March,39,fine dining,50
-1,March,91,grocery,55
-1,March,92,fine dining,22
-1,March,83,fast food,51
-1,March,89,fine dining,42
-1,March,52,grocery,3.44
-1,March,12,rent,349.52
-1,March,12,utilities,475.3
-1,March,61,movies,74
-1,March,28,travelling,114
-1,March,3,travelling,100
-1,March,100,movies,119
-1,March,77,travelling,68
-1,March,60,movies,3.8
-1,April,31,fast food,41
-1,April,65,fast food,51
-1,April,8,fast food,54
-1,April,79,fast food,57
-1,April,1,fine dining,43
-1,April,39,grocery,25.32
-1,April,52,rent,351.76
-1,April,52,utilities,459.32
-1,April,70,movies,65
-1,April,50,gym,58
-1,April,55,travelling,83
-1,April,84,movies,72
-1,April,78,gym,122
-1,April,93,travelling,109
-1,April,89,gym,17.68
-1,May,50,grocery,23
-1,May,13,fast food,42
-1,May,96,fast food,22
-1,May,59,fast food,33
-1,May,33,grocery,39
-1,May,27,fine dining,28
-1,May,44,grocery,4.52
-1,May,0,rent,429.0
-1,May,0,utilities,506.43
-1,May,82,movies,142
-1,May,98,gym,96
-1,May,54,movies,67
-1,May,56,movies,128
-1,May,11,movies,135
-1,May,80,movies,54.44
-1,June,43,fast food,38
-1,June,26,fast food,30
-1,June,86,fast food,19
-1,June,15,grocery,25
-1,June,61,grocery,17
-1,June,7,fine dining,27
-1,June,91,fast food,3.6
-1,June,50,rent,384.48
-1,June,50,utilities,522.84
-1,June,47,travelling,126
-1,June,42,gym,79
-1,June,96,movies,63
-1,June,96,travelling,68
-1,June,87,movies,98
-1,June,76,movies,76.72
-1,July,58,fast food,24
-1,July,74,grocery,19
-1,July,46,grocery,17
-1,July,8,fine dining,26
-1,July,80,fine dining,19
-1,July,74,fine dining,37
-1,July,2,fast food,17.6
-1,July,71,rent,430.44
-1,July,71,utilities,490.46
-1,July,54,travelling,109
-1,July,100,movies,117
-1,July,67,gym,97
-1,July,92,travelling,119
-1,July,83,movies,52.76
-1,August,25,grocery,66
-1,August,21,fast food,61
-1,August,81,fast food,50
-1,August,85,fast food,42
-1,August,64,fast food,52.32
-1,August,100,rent,444.96
-1,August,100,utilities,538.19
-1,August,69,travelling,135
-1,August,1,gym,77
-1,August,34,gym,69
-1,August,43,movies,78
-1,August,97,travelling,98
-1,August,9,movies,83
-1,August,34,movies,2.64
-1,September,47,fine dining,25
-1,September,96,grocery,38
-1,September,63,fine dining,33
-1,September,76,grocery,31
-1,September,26,fast food,41
-1,September,83,grocery,34
-1,September,88,fast food,5.48
-1,September,66,rent,429.0
-1,September,66,utilities,506.43
-1,September,16,gym,110
-1,September,48,travelling,101
-1,September,88,movies,96
-1,September,11,travelling,78
-1,September,83,gym,81
-1,September,65,movies,88
-1,September,60,movies,4.6
-1,October,71,fine dining,27
-1,October,0,fast food,30
-1,October,86,grocery,19
-1,October,82,fast food,37
-1,October,5,fine dining,25
-1,October,11,fast food,37.56
-1,October,18,rent,490.13
-1,October,18,utilities,585.62
-1,October,31,travelling,107
-1,October,33,movies,86
-1,October,33,gym,143
-1,October,37,gym,134
-1,October,37,travelling,59
-1,October,98,movies,45.56
-1,November,40,fast food,57
-1,November,47,grocery,65
-1,November,21,fast food,47
-1,November,88,fast food,39
-1,November,86,fast food,40
-1,November,90,fine dining,23.32
-1,November,67,rent,435.39
-1,November,67,utilities,490.41
-1,November,27,movies,105
-1,November,45,gym,137
-1,November,0,gym,71
-1,November,83,gym,122
-1,November,69,travelling,81
-1,November,84,gym,42.6
-1,December,52,grocery,16
-1,December,68,fine dining,24
-1,December,32,fast food,20
-1,December,0,grocery,27
-1,December,77,fast food,27
-1,December,13,grocery,29.64
-1,December,98,rent,368.68
-1,December,98,utilities,475.11
-1,December,80,gym,137
-1,December,56,movies,144
-1,December,55,movies,77
-1,December,1,movies,119
-1,December,55,travelling,136
-1,December,82,travelling,9.44
-2,January,98,fine dining,16
-2,January,38,fast food,20
-2,January,80,fine dining,18
-2,January,84,grocery,11
-2,January,4,fast food,15
-2,January,34,fine dining,10
-2,January,57,fast food,11
-2,January,2,fast food,1.3
-2,January,55,rent,237.34
-2,January,55,utilities,294.3
-2,January,95,gym,107
-2,January,53,gym,56
-2,January,62,movies,59
-2,January,100,movies,49
-2,January,49,movies,61
-2,January,95,travelling,91
-2,January,24,gym,57.81
-2,February,61,grocery,39
-2,February,21,fine dining,41
-2,February,80,fast food,30
-2,February,10,fast food,27
-2,February,59,fine dining,33
-2,February,24,grocery,3.91
-2,February,4,rent,248.59
-2,February,4,utilities,273.72
-2,February,70,travelling,87
-2,February,100,gym,54
-2,February,99,gym,93
-2,February,46,gym,48
-2,February,52,movies,50
-2,February,17,movies,53
-2,February,51,movies,24.2
-2,March,83,fast food,28
-2,March,99,fine dining,34
-2,March,85,fast food,36
-2,March,12,fast food,25
-2,March,87,grocery,24
-2,March,81,grocery,26
-2,March,15,grocery,0.91
-2,March,90,rent,302.6
-2,March,90,utilities,344.79
-2,March,71,movies,96
-2,March,89,movies,98
-2,March,98,travelling,60
-2,March,100,travelling,102
-2,March,27,movies,56
-2,March,94,movies,7.43
-2,April,12,fast food,22
-2,April,55,grocery,26
-2,April,94,fast food,16
-2,April,34,grocery,34
-2,April,40,grocery,32
-2,April,16,grocery,18
-2,April,67,fast food,15.68
-2,April,87,rent,222.5
-2,April,87,utilities,294.44
-2,April,41,travelling,97
-2,April,99,movies,90
-2,April,49,travelling,64
-2,April,91,travelling,57
-2,April,87,gym,53
-2,April,88,gym,89.12
-2,May,65,fast food,38
-2,May,63,fast food,34
-2,May,61,grocery,33
-2,May,43,grocery,24
-2,May,76,fast food,27
-2,May,85,fast food,7.68
-2,May,81,rent,226.49
-2,May,81,utilities,273.95
-2,May,9,movies,70
-2,May,31,gym,49
-2,May,56,movies,113
-2,May,31,gym,105
-2,May,55,gym,96
-2,May,36,travelling,37.58
-2,June,2,grocery,18
-2,June,84,fine dining,33
-2,June,99,grocery,24
-2,June,0,fast food,15
-2,June,88,fine dining,24
-2,June,54,fine dining,32
-2,June,37,fine dining,7.45
-2,June,66,rent,272.53
-2,June,66,utilities,365.55
-2,June,84,gym,43
-2,June,72,travelling,61
-2,June,45,movies,70
-2,June,71,gym,57
-2,June,23,travelling,46
-2,June,54,travelling,71
-2,June,11,gym,71.43
-2,July,33,fine dining,23
-2,July,59,fast food,23
-2,July,84,fast food,25
-2,July,0,grocery,14
-2,July,23,grocery,12
-2,July,18,fast food,25.76
-2,July,26,rent,283.58
-2,July,26,utilities,365.44
-2,July,50,travelling,90
-2,July,67,travelling,67
-2,July,25,gym,90
-2,July,12,movies,75
-2,July,65,movies,86
-2,July,18,travelling,21.66
-2,August,0,grocery,15
-2,August,44,fast food,24
-2,August,95,fast food,23
-2,August,94,fine dining,21
-2,August,57,fast food,23
-2,August,79,grocery,16.76
-2,August,87,rent,317.95
-2,August,87,utilities,375.33
-2,August,18,movies,104
-2,August,4,gym,96
-2,August,4,movies,111
-2,August,93,gym,55
-2,August,4,travelling,102
-2,August,4,movies,2.58
-2,September,7,fine dining,18
-2,September,60,fine dining,28
-2,September,42,fast food,20
-2,September,22,fine dining,19
-2,September,13,grocery,31
-2,September,100,fast food,17
-2,September,78,grocery,10.22
-2,September,32,rent,248.79
-2,September,32,utilities,324.87
-2,September,57,travelling,67
-2,September,84,movies,92
-2,September,43,gym,54
-2,September,62,travelling,59
-2,September,10,gym,112
-2,September,94,travelling,86.58
-2,October,54,grocery,13
-2,October,91,grocery,15
-2,October,89,grocery,9
-2,October,52,fine dining,8
-2,October,67,grocery,10
-2,October,0,fine dining,16
-2,October,61,fast food,10.84
-2,October,66,rent,226.49
-2,October,66,utilities,273.95
-2,October,93,movies,45
-2,October,77,movies,89
-2,October,16,gym,64
-2,October,11,travelling,90
-2,October,61,gym,71
-2,October,60,movies,77
-2,October,48,travelling,14.12
-2,November,98,grocery,18
-2,November,45,fast food,23
-2,November,45,fine dining,24
-2,November,14,fast food,13
-2,November,35,fast food,31
-2,November,10,grocery,13
-2,November,95,fast food,10.99
-2,November,76,rent,325.52
-2,November,76,utilities,375.25
-2,November,100,movies,104
-2,November,67,gym,91
-2,November,98,travelling,88
-2,November,69,movies,90
-2,November,45,movies,56.66
-2,December,52,fast food,21
-2,December,88,fine dining,33
-2,December,44,fine dining,13
-2,December,13,grocery,23
-2,December,34,grocery,16
-2,December,20,fast food,26.99
-2,December,69,rent,248.59
-2,December,69,utilities,304.41
-2,December,31,travelling,58
-2,December,80,gym,70
-2,December,26,movies,80
-2,December,37,travelling,65
-2,December,91,gym,107
-2,December,27,gym,49.66
-3,January,33,fast food,74
-3,January,90,fast food,59
-3,January,94,fast food,75
-3,January,66,grocery,105
-3,January,11,fine dining,54
-3,January,57,fast food,67.42
-3,January,25,rent,1228.79
-3,January,25,utilities,1384.06
-3,January,85,travelling,183
-3,January,62,gym,189
-3,January,74,travelling,149
-3,January,6,travelling,259
-3,January,40,movies,135
-3,January,93,gym,171.05
-3,February,25,grocery,116
-3,February,43,fast food,135
-3,February,42,fast food,62
-3,February,88,fine dining,91
-3,February,51,fast food,90
-3,February,51,fast food,73
-3,February,45,grocery,22.57
-3,February,33,rent,1306.98
-3,February,33,utilities,1600.49
-3,February,87,movies,306
-3,February,92,travelling,194
-3,February,14,gym,130
-3,February,24,movies,209
-3,February,59,movies,132
-3,February,32,travelling,195
-3,February,29,travelling,106.23
-3,March,81,fine dining,56
-3,March,19,grocery,80
-3,March,35,fine dining,85
-3,March,55,grocery,112
-3,March,64,fine dining,58
-3,March,20,grocery,93
-3,March,100,grocery,74.54
-3,March,19,rent,1160.83
-3,March,19,utilities,1322.68
-3,March,52,gym,146
-3,March,67,movies,158
-3,March,78,travelling,252
-3,March,42,movies,167
-3,March,42,travelling,173
-3,March,57,gym,127.99
-3,April,59,fast food,174
-3,April,60,fine dining,130
-3,April,75,grocery,116
-3,April,52,fast food,149
-3,April,7,fine dining,144.69
-3,April,38,rent,1000.72
-3,April,38,utilities,1324.28
-3,April,75,gym,232
-3,April,69,movies,138
-3,April,92,movies,182
-3,April,65,gym,235
-3,April,62,movies,132
-3,April,66,movies,73.96
-3,May,48,fine dining,169
-3,May,20,fast food,160
-3,May,78,fast food,96
-3,May,65,fine dining,126
-3,May,80,fast food,70
-3,May,73,grocery,61.66
-3,May,15,rent,1195.9
-3,May,15,utilities,1446.45
-3,May,100,gym,248
-3,May,29,travelling,185
-3,May,77,movies,245
-3,May,98,movies,118
-3,May,5,gym,211
-3,May,22,movies,48.02
-3,June,4,fast food,125
-3,June,73,grocery,97
-3,June,94,grocery,101
-3,June,89,fine dining,126
-3,June,21,fine dining,129
-3,June,9,fine dining,166.72
-3,June,50,rent,1070.54
-3,June,50,utilities,1416.67
-3,June,98,gym,209
-3,June,61,travelling,282
-3,June,29,movies,254
-3,June,54,movies,284
-3,June,25,travelling,212.2
-3,July,95,fine dining,64
-3,July,53,fine dining,144
-3,July,40,fine dining,115
-3,July,78,fine dining,135
-3,July,30,fine dining,131.57
-3,July,54,rent,1266.02
-3,July,54,utilities,1476.78
-3,July,94,movies,293
-3,July,58,travelling,124
-3,July,95,gym,293
-3,July,85,movies,127
-3,July,18,travelling,134
-3,July,49,movies,196
-3,July,77,movies,74.2
-3,August,30,fine dining,112
-3,August,8,fast food,49
-3,August,24,fine dining,49
-3,August,98,fine dining,76
-3,August,25,fast food,77
-3,August,42,fine dining,58
-3,August,32,fine dining,44.45
-3,August,45,rent,1040.75
-3,August,45,utilities,1323.88
-3,August,31,movies,278
-3,August,100,travelling,270
-3,August,1,movies,226
-3,August,13,movies,134
-3,August,51,gym,209
-3,August,38,movies,62.14
-3,September,35,grocery,93
-3,September,0,fine dining,136
-3,September,91,fine dining,157
-3,September,46,fast food,154
-3,September,87,fine dining,91
-3,September,31,fast food,51.66
-3,September,64,rent,999.17
-3,September,64,utilities,1417.39
-3,September,79,gym,165
-3,September,17,gym,195
-3,September,37,travelling,146
-3,September,85,movies,141
-3,September,88,travelling,247
-3,September,37,travelling,276
-3,September,16,gym,9.14
-3,October,44,grocery,60
-3,October,61,fine dining,60
-3,October,78,fast food,126
-3,October,39,fine dining,54
-3,October,92,grocery,129
-3,October,70,fast food,71
-3,October,38,fast food,27.51
-3,October,66,rent,1452.2
-3,October,66,utilities,1599.04
-3,October,73,gym,124
-3,October,68,movies,242
-3,October,89,travelling,134
-3,October,13,gym,234
-3,October,7,movies,158
-3,October,94,travelling,100.96
-3,November,78,fast food,83
-3,November,11,fast food,107
-3,November,33,grocery,54
-3,November,77,grocery,55
-3,November,11,fast food,84
-3,November,34,fine dining,82.45
-3,November,23,rent,1109.94
-3,November,23,utilities,1509.37
-3,November,34,travelling,151
-3,November,60,travelling,173
-3,November,20,movies,206
-3,November,8,movies,230
-3,November,25,gym,132
-3,November,41,travelling,69.93
-3,December,93,fast food,95
-3,December,85,fine dining,67
-3,December,74,fine dining,56
-3,December,76,fast food,74
-3,December,97,fine dining,80
-3,December,12,grocery,85
-3,December,82,fast food,39.48
-3,December,60,rent,1332.12
-3,December,60,utilities,1631.27
-3,December,39,travelling,224
-3,December,82,gym,240
-3,December,85,movies,225
-3,December,43,travelling,235
-3,December,88,movies,224.11
-4,January,50,fast food,99
-4,January,94,fast food,80
-4,January,28,grocery,104
-4,January,50,grocery,103
-4,January,65,grocery,166
-4,January,9,grocery,84
-4,January,81,fast food,35.27
-4,January,87,rent,1075.8
-4,January,87,utilities,1225.79
-4,January,91,movies,274
-4,January,70,gym,430
-4,January,51,travelling,410
-4,January,3,movies,328
-4,January,85,travelling,258
-4,January,30,gym,66.5
-4,February,93,fine dining,113
-4,February,97,fine dining,133
-4,February,94,fast food,159
-4,February,4,fast food,98
-4,February,87,fast food,142
-4,February,67,grocery,26.27
-4,February,85,rent,964.51
-4,February,85,utilities,1226.9
-4,February,93,movies,157
-4,February,46,movies,181
-4,February,9,travelling,171
-4,February,75,travelling,319
-4,February,50,travelling,331
-4,February,16,travelling,343
-4,February,98,travelling,52.52
-4,March,7,fine dining,96
-4,March,55,fast food,59
-4,March,31,grocery,129
-4,March,18,grocery,108
-4,March,34,fast food,75
-4,March,80,fine dining,62.95
-4,March,59,rent,1100.88
-4,March,59,utilities,1331.53
-4,March,90,travelling,292
-4,March,21,travelling,360
-4,March,44,movies,285
-4,March,13,travelling,208
-4,March,11,movies,338.86
-4,April,68,grocery,69
-4,April,32,fine dining,53
-4,April,56,fast food,48
-4,April,26,fast food,68
-4,April,57,grocery,95
-4,April,40,fast food,46
-4,April,40,fine dining,44.96
-4,April,6,rent,1017.5
-4,April,6,utilities,1261.7
-4,April,35,movies,261
-4,April,50,travelling,265
-4,April,84,gym,357
-4,April,81,movies,289
-4,April,23,gym,186
-4,April,85,movies,196.52
-4,May,16,fine dining,170
-4,May,11,fine dining,136
-4,May,37,grocery,102
-4,May,89,fast food,88
-4,May,75,grocery,187
-4,May,39,grocery,78
-4,May,33,grocery,16.26
-4,May,96,rent,1047.18
-4,May,96,utilities,1332.07
-4,May,20,travelling,311
-4,May,95,movies,320
-4,May,29,travelling,235
-4,May,55,movies,356
-4,May,46,gym,303
-4,May,72,movies,29.52
-4,June,96,fast food,61
-4,June,0,fast food,135
-4,June,53,fine dining,130
-4,June,76,fine dining,108
-4,June,90,fine dining,119
-4,June,37,grocery,12.28
-4,June,31,rent,1004.79
-4,June,31,utilities,1261.83
-4,June,36,movies,269
-4,June,82,movies,322
-4,June,40,gym,306
-4,June,5,travelling,307
-4,June,69,movies,154
-4,June,58,travelling,161.19
-4,July,66,fine dining,91
-4,July,90,grocery,102
-4,July,5,fast food,55
-4,July,40,fine dining,54
-4,July,68,fast food,104
-4,July,12,fine dining,17.96
-4,July,23,rent,1245.74
-4,July,23,utilities,1436.07
-4,July,86,gym,188
-4,July,53,gym,192
-4,July,95,movies,306
-4,July,76,travelling,200
-4,July,50,travelling,357
-4,July,89,travelling,276.19
-4,August,82,grocery,114
-4,August,3,grocery,121
-4,August,23,fine dining,79
-4,August,79,fast food,69
-4,August,25,fast food,152
-4,August,14,fast food,86
-4,August,39,grocery,50.27
-4,August,19,rent,1086.4
-4,August,19,utilities,1437.67
-4,August,63,travelling,415
-4,August,70,movies,219
-4,August,90,travelling,396
-4,August,51,movies,404
-4,August,47,movies,332.5
-4,September,2,fine dining,146
-4,September,60,grocery,80
-4,September,34,grocery,154
-4,September,24,fine dining,133
-4,September,26,fast food,125
-4,September,19,grocery,33.27
-4,September,22,rent,1271.88
-4,September,22,utilities,1400.48
-4,September,74,movies,340
-4,September,3,travelling,384
-4,September,1,movies,418
-4,September,36,travelling,246
-4,September,91,gym,187
-4,September,29,travelling,156.17
-4,October,19,fast food,171
-4,October,98,fast food,119
-4,October,61,fast food,109
-4,October,81,fast food,174
-4,October,51,grocery,114
-4,October,45,grocery,54.93
-4,October,83,rent,1154.58
-4,October,83,utilities,1330.99
-4,October,3,gym,419
-4,October,73,movies,252
-4,October,91,movies,326
-4,October,30,travelling,327
-4,October,24,movies,389
-4,October,20,gym,53.5
-4,November,69,grocery,95
-4,November,36,grocery,111
-4,November,86,grocery,151
-4,November,95,grocery,84
-4,November,86,fast food,74
-4,November,2,fast food,86
-4,November,28,grocery,34.94
-4,November,31,rent,1240.08
-4,November,31,utilities,1365.47
-4,November,75,movies,407
-4,November,55,gym,326
-4,November,92,gym,297
-4,November,39,travelling,433
-4,November,87,travelling,334
-4,November,73,gym,4.83
-4,December,67,fast food,110
-4,December,94,grocery,99
-4,December,33,fast food,127
-4,December,74,grocery,76
-4,December,64,grocery,145
-4,December,61,fine dining,78.94
-4,December,18,rent,1194.86
-4,December,18,utilities,1330.59
-4,December,22,travelling,312
-4,December,91,movies,366
-4,December,4,travelling,311
-4,December,79,movies,326
-4,December,96,movies,239.52
-5,January,90,grocery,43
-5,January,98,grocery,37
-5,January,64,grocery,26
-5,January,35,fine dining,25
-5,January,8,grocery,26
-5,January,18,grocery,27.38
-5,January,97,rent,227.58
-5,January,97,utilities,313.8
-5,January,92,movies,88
-5,January,53,travelling,126
-5,January,9,gym,74
-5,January,16,gym,73
-5,January,91,movies,96
-5,January,87,travelling,77
-5,January,29,gym,19.14
-5,February,34,fast food,55
-5,February,53,grocery,32
-5,February,7,fast food,44
-5,February,84,fine dining,53
-5,February,14,fast food,39.89
-5,February,21,rent,254.44
-5,February,21,utilities,300.37
-5,February,56,travelling,79
-5,February,66,movies,132
-5,February,54,gym,108
-5,February,95,gym,59
-5,February,94,movies,94
-5,February,67,movies,67.97
-5,March,94,fast food,34
-5,March,9,grocery,19
-5,March,91,fine dining,31
-5,March,81,fast food,38
-5,March,43,fine dining,45
-5,March,8,grocery,21
-5,March,93,grocery,9.55
-5,March,99,rent,224.15
-5,March,99,utilities,300.67
-5,March,17,movies,95
-5,March,92,gym,75
-5,March,30,gym,137
-5,March,54,movies,110
-5,March,51,gym,57
-5,March,9,travelling,79.14
-5,April,8,fine dining,19
-5,April,4,fine dining,17
-5,April,4,grocery,24
-5,April,11,fine dining,33
-5,April,15,fast food,25
-5,April,30,fast food,16
-5,April,5,grocery,10.87
-5,April,36,rent,245.36
-5,April,36,utilities,300.46
-5,April,57,travelling,79
-5,April,14,movies,89
-5,April,54,gym,115
-5,April,92,movies,98
-5,April,54,gym,104
-5,April,67,gym,68.14
-5,May,4,fine dining,33
-5,May,6,grocery,41
-5,May,53,grocery,25
-5,May,30,fast food,21
-5,May,45,grocery,25
-5,May,22,grocery,39.38
-5,May,95,rent,252.47
-5,May,95,utilities,353.07
-5,May,89,gym,145
-5,May,25,gym,142
-5,May,0,movies,68
-5,May,14,movies,117
-5,May,31,gym,132
-5,May,85,movies,1.82
-5,June,15,fine dining,57
-5,June,79,fast food,61
-5,June,78,fast food,62
-5,June,73,fine dining,37
-5,June,37,grocery,39
-5,June,78,fine dining,20.57
-5,June,8,rent,266.56
-5,June,8,utilities,300.24
-5,June,80,gym,126
-5,June,28,gym,106
-5,June,38,gym,93
-5,June,35,gym,87
-5,June,19,travelling,83
-5,June,13,movies,84.48
-5,July,13,grocery,32
-5,July,69,fast food,25
-5,July,75,fast food,21
-5,July,14,grocery,42
-5,July,62,fast food,21
-5,July,91,grocery,31
-5,July,48,fine dining,25.55
-5,July,71,rent,249.97
-5,July,71,utilities,339.92
-5,July,88,gym,105
-5,July,24,travelling,114
-5,July,43,gym,126
-5,July,56,gym,67
-5,July,83,movies,97
-5,July,81,movies,4.63
-5,August,66,grocery,31
-5,August,73,fine dining,64
-5,August,92,grocery,38
-5,August,2,fast food,63
-5,August,20,fast food,42
-5,August,0,fast food,38.57
-5,August,37,rent,378.11
-5,August,37,utilities,430.83
-5,August,79,travelling,118
-5,August,20,travelling,105
-5,August,6,travelling,104
-5,August,28,travelling,136
-5,August,35,gym,88
-5,August,86,travelling,81.16
-5,September,70,grocery,45
-5,September,56,fine dining,56
-5,September,72,fast food,35
-5,September,96,grocery,45
-5,September,79,fast food,48
-5,September,37,grocery,34.4
-5,September,14,rent,268.67
-5,September,14,utilities,313.39
-5,September,38,gym,123
-5,September,60,movies,96
-5,September,47,gym,55
-5,September,99,gym,50
-5,September,69,travelling,64
-5,September,1,gym,50
-5,September,17,travelling,62.46
-5,October,62,fast food,60
-5,October,35,fine dining,47
-5,October,86,grocery,56
-5,October,58,fine dining,50
-5,October,20,fine dining,59
-5,October,50,fine dining,4.57
-5,October,92,rent,280.26
-5,October,92,utilities,365.96
-5,October,96,travelling,56
-5,October,58,travelling,68
-5,October,79,travelling,74
-5,October,97,movies,82
-5,October,84,gym,59
-5,October,40,travelling,139
-5,October,99,movies,84
-5,October,72,gym,4.31
-5,November,71,fine dining,30
-5,November,86,fine dining,18
-5,November,10,fast food,23
-5,November,47,fast food,40
-5,November,92,grocery,28
-5,November,5,fast food,17
-5,November,71,fast food,15.21
-5,November,58,rent,236.27
-5,November,58,utilities,300.55
-5,November,78,movies,121
-5,November,56,travelling,63
-5,November,47,gym,107
-5,November,22,movies,96
-5,November,22,travelling,80
-5,November,46,movies,63
-5,November,9,movies,62.65
-5,December,8,grocery,26
-5,December,75,fine dining,41
-5,December,42,fast food,42
-5,December,76,fast food,51
-5,December,7,fast food,54
-5,December,51,fine dining,33
-5,December,8,fine dining,16.4
-5,December,36,rent,233.24
-5,December,36,utilities,300.58
-5,December,3,movies,106
-5,December,98,gym,80
-5,December,97,movies,53
-5,December,86,gym,66
-5,December,90,movies,103
-5,December,66,travelling,52
-5,December,15,gym,53.63
+1,January,66,fine dining,24
+1,January,65,fine dining,33
+1,January,10,fast food,48
+1,January,91,grocery,45
+1,January,19,grocery,37
+1,January,11,fine dining,20.48
+1,January,89,rent,390.7
+1,January,89,utilities,538.73
+1,January,84,gym,76
+1,January,3,travelling,82
+1,January,58,gym,99
+1,January,67,travelling,82
+1,January,78,gym,60
+1,January,29,travelling,136
+1,January,18,travelling,23.6
+1,February,68,fast food,56
+1,February,29,fine dining,41
+1,February,15,fine dining,57
+1,February,19,grocery,57
+1,February,21,fine dining,23
+1,February,12,fine dining,5.4
+1,February,39,rent,392.62
+1,February,39,utilities,474.87
+1,February,89,movies,64
+1,February,21,movies,80
+1,February,92,gym,119
+1,February,44,travelling,102
+1,February,44,movies,92
+1,February,53,gym,85
+1,February,46,gym,48.52
+1,March,40,grocery,40
+1,March,16,grocery,47
+1,March,54,fine dining,47
+1,March,15,fine dining,25
+1,March,99,grocery,22
+1,March,32,fast food,30
+1,March,30,fast food,12.44
+1,March,35,rent,368.68
+1,March,35,utilities,475.11
+1,March,28,gym,68
+1,March,75,movies,111
+1,March,0,movies,108
+1,March,94,movies,68
+1,March,57,travelling,62
+1,March,64,movies,61.8
+1,April,45,fast food,31
+1,April,87,fast food,58
+1,April,95,fast food,28
+1,April,9,fast food,31
+1,April,60,grocery,49
+1,April,75,fast food,49
+1,April,9,fast food,25.32
+1,April,72,rent,361.02
+1,April,72,utilities,459.23
+1,April,20,gym,88
+1,April,30,travelling,54
+1,April,84,travelling,106
+1,April,41,travelling,91
+1,April,98,movies,103
+1,April,31,travelling,72
+1,April,47,movies,12.68
+1,May,45,fine dining,24
+1,May,58,grocery,40
+1,May,34,grocery,28
+1,May,0,fast food,29
+1,May,82,fast food,24
+1,May,89,fast food,21
+1,May,89,grocery,20
+1,May,27,fast food,5.52
+1,May,82,rent,444.33
+1,May,82,utilities,506.28
+1,May,20,travelling,82
+1,May,42,travelling,86
+1,May,42,travelling,109
+1,May,94,travelling,127
+1,May,50,movies,70
+1,May,12,travelling,98
+1,May,61,movies,50.44
+1,June,57,grocery,20
+1,June,15,grocery,28
+1,June,24,grocery,32
+1,June,72,grocery,35
+1,June,24,fine dining,36
+1,June,66,fast food,8.6
+1,June,52,rent,379.21
+1,June,52,utilities,522.89
+1,June,81,movies,126
+1,June,78,gym,112
+1,June,36,movies,75
+1,June,32,gym,121
+1,June,62,travelling,73
+1,June,94,gym,3.72
+1,July,92,grocery,39
+1,July,27,fine dining,20
+1,July,44,fine dining,38
+1,July,2,fast food,15
+1,July,39,grocery,36
+1,July,17,grocery,11.6
+1,July,35,rent,425.49
+1,July,35,utilities,490.51
+1,July,50,movies,101
+1,July,5,travelling,67
+1,July,64,travelling,102
+1,July,11,gym,102
+1,July,40,movies,86
+1,July,4,travelling,36.76
+1,August,3,grocery,64
+1,August,43,grocery,51
+1,August,30,fast food,34
+1,August,29,grocery,65
+1,August,4,grocery,35
+1,August,95,fast food,22.32
+1,August,95,rent,444.96
+1,August,95,utilities,538.19
+1,August,47,travelling,88
+1,August,13,travelling,69
+1,August,95,movies,112
+1,August,82,gym,56
+1,August,77,gym,96
+1,August,12,movies,121.64
+1,September,91,fine dining,50
+1,September,48,fine dining,24
+1,September,99,fine dining,27
+1,September,94,fine dining,34
+1,September,86,fine dining,32
+1,September,3,grocery,34
+1,September,91,fine dining,6.48
+1,September,66,rent,454.54
+1,September,66,utilities,506.17
+1,September,8,gym,60
+1,September,95,travelling,134
+1,September,55,movies,66
+1,September,98,movies,67
+1,September,25,travelling,88
+1,September,33,movies,90
+1,September,25,gym,53.6
+1,October,88,grocery,40
+1,October,32,grocery,24
+1,October,29,grocery,24
+1,October,61,fine dining,40
+1,October,3,fine dining,35
+1,October,12,fast food,12.56
+1,October,81,rent,484.23
+1,October,81,utilities,585.68
+1,October,2,movies,126
+1,October,73,travelling,136
+1,October,85,travelling,135
+1,October,53,gym,130
+1,October,49,travelling,47.56
+1,November,71,grocery,57
+1,November,4,fast food,49
+1,November,63,grocery,60
+1,November,50,fast food,32
+1,November,57,grocery,56
+1,November,22,fast food,17.32
+1,November,42,rent,346.33
+1,November,42,utilities,491.3
+1,November,18,travelling,104
+1,November,3,movies,106
+1,November,15,travelling,97
+1,November,38,travelling,61
+1,November,86,gym,134
+1,November,29,gym,56.6
+1,December,51,grocery,15
+1,December,3,fine dining,24
+1,December,53,fast food,22
+1,December,57,fine dining,32
+1,December,51,fast food,30
+1,December,4,fast food,18
+1,December,50,fast food,2.64
+1,December,85,rent,426.13
+1,December,85,utilities,474.54
+1,December,37,movies,95
+1,December,10,movies,96
+1,December,65,movies,95
+1,December,61,gym,118
+1,December,14,gym,129
+1,December,61,gym,89.44
+2,January,25,fast food,18
+2,January,90,fine dining,18
+2,January,14,fast food,10
+2,January,29,fast food,15
+2,January,45,grocery,24
+2,January,86,fine dining,10
+2,January,81,grocery,7.3
+2,January,36,rent,237.34
+2,January,36,utilities,294.3
+2,January,38,gym,96
+2,January,77,movies,92
+2,January,80,movies,108
+2,January,26,movies,66
+2,January,27,movies,97
+2,January,31,movies,21.81
+2,February,84,grocery,43
+2,February,32,fast food,37
+2,February,75,fast food,20
+2,February,84,grocery,36
+2,February,41,fine dining,34
+2,February,89,grocery,3.91
+2,February,27,rent,237.54
+2,February,27,utilities,273.83
+2,February,13,travelling,56
+2,February,49,movies,69
+2,February,82,gym,78
+2,February,16,gym,95
+2,February,8,movies,60
+2,February,70,gym,51.2
+2,March,62,fast food,18
+2,March,96,fine dining,37
+2,March,78,fine dining,32
+2,March,16,grocery,18
+2,March,64,grocery,38
+2,March,26,fast food,30.91
+2,March,92,rent,264.34
+2,March,92,utilities,345.18
+2,March,43,gym,52
+2,March,21,movies,47
+2,March,88,gym,48
+2,March,16,gym,56
+2,March,0,movies,86
+2,March,67,travelling,48
+2,March,55,gym,82.43
+2,April,11,grocery,39
+2,April,53,fine dining,28
+2,April,88,fine dining,37
+2,April,74,grocery,21
+2,April,0,fine dining,19
+2,April,37,fine dining,17
+2,April,47,fine dining,2.68
+2,April,49,rent,207.67
+2,April,49,utilities,294.59
+2,April,28,travelling,97
+2,April,61,gym,105
+2,April,89,movies,80
+2,April,84,gym,70
+2,April,7,gym,75
+2,April,73,gym,23.12
+2,May,77,fine dining,20
+2,May,100,fast food,31
+2,May,42,fast food,40
+2,May,9,fast food,25
+2,May,53,grocery,27
+2,May,46,fine dining,20.68
+2,May,41,rent,198.87
+2,May,41,utilities,274.22
+2,May,73,gym,95
+2,May,78,gym,52
+2,May,48,gym,56
+2,May,51,travelling,57
+2,May,96,gym,108
+2,May,21,travelling,97
+2,May,60,movies,5.58
+2,June,84,fast food,30
+2,June,68,fine dining,21
+2,June,70,fine dining,17
+2,June,48,fast food,38
+2,June,21,fast food,38
+2,June,48,grocery,9.45
+2,June,76,rent,283.58
+2,June,76,utilities,365.44
+2,June,40,movies,62
+2,June,84,travelling,96
+2,June,54,movies,88
+2,June,39,travelling,66
+2,June,26,gym,97
+2,June,67,movies,10.43
+2,July,23,grocery,21
+2,July,20,fast food,27
+2,July,48,fast food,23
+2,July,19,grocery,21
+2,July,16,grocery,18
+2,July,28,fast food,12.76
+2,July,36,rent,331.45
+2,July,36,utilities,364.97
+2,July,77,gym,77
+2,July,75,gym,72
+2,July,69,movies,94
+2,July,24,gym,93
+2,July,84,movies,44
+2,July,16,travelling,49.66
+2,August,41,fine dining,28
+2,August,15,grocery,15
+2,August,14,fine dining,16
+2,August,84,fast food,27
+2,August,38,fast food,26
+2,August,94,fine dining,10.76
+2,August,83,rent,329.3
+2,August,83,utilities,375.22
+2,August,14,movies,117
+2,August,12,travelling,57
+2,August,31,travelling,63
+2,August,2,travelling,116
+2,August,1,gym,80
+2,August,8,travelling,37.58
+2,September,88,grocery,20
+2,September,83,fine dining,19
+2,September,65,fine dining,15
+2,September,26,fine dining,14
+2,September,11,fast food,24
+2,September,10,fine dining,16
+2,September,60,fast food,29
+2,September,14,fine dining,6.22
+2,September,81,rent,248.79
+2,September,81,utilities,324.87
+2,September,2,movies,75
+2,September,58,gym,98
+2,September,4,travelling,84
+2,September,96,movies,74
+2,September,9,gym,51
+2,September,70,gym,71
+2,September,96,movies,17.58
+2,October,88,fast food,19
+2,October,97,fine dining,11
+2,October,45,grocery,12
+2,October,13,fast food,18
+2,October,98,grocery,19
+2,October,68,grocery,2.84
+2,October,84,rent,232.02
+2,October,84,utilities,273.89
+2,October,59,movies,75
+2,October,51,travelling,94
+2,October,3,travelling,93
+2,October,29,movies,51
+2,October,57,travelling,74
+2,October,65,gym,57
+2,October,41,movies,6.12
+2,November,90,fine dining,19
+2,November,16,fast food,29
+2,November,3,fast food,18
+2,November,70,fast food,25
+2,November,88,fine dining,22
+2,November,69,grocery,16
+2,November,5,fast food,3.99
+2,November,53,rent,287.67
+2,November,53,utilities,375.63
+2,November,98,movies,44
+2,November,47,gym,73
+2,November,59,movies,83
+2,November,22,travelling,60
+2,November,87,travelling,51
+2,November,39,movies,106
+2,November,94,travelling,12.66
+2,December,12,fine dining,32
+2,December,24,grocery,18
+2,December,94,fine dining,31
+2,December,71,fine dining,20
+2,December,74,fast food,31.99
+2,December,36,rent,245.52
+2,December,36,utilities,304.44
+2,December,21,movies,91
+2,December,24,travelling,44
+2,December,50,movies,66
+2,December,65,gym,66
+2,December,11,movies,57
+2,December,52,travelling,99
+2,December,25,travelling,6.66
+3,January,4,fine dining,92
+3,January,98,grocery,59
+3,January,82,fast food,72
+3,January,69,fast food,90
+3,January,68,fine dining,89
+3,January,25,grocery,32.42
+3,January,8,rent,1172.93
+3,January,8,utilities,1384.62
+3,January,20,gym,180
+3,January,51,gym,182
+3,January,21,gym,135
+3,January,92,travelling,237
+3,January,100,movies,218
+3,January,45,movies,134.05
+3,February,38,grocery,77
+3,February,88,fine dining,102
+3,February,73,fine dining,79
+3,February,69,grocery,93
+3,February,54,grocery,128
+3,February,20,grocery,107
+3,February,66,fast food,3.57
+3,February,9,rent,1210.17
+3,February,9,utilities,1601.46
+3,February,48,gym,153
+3,February,97,travelling,233
+3,February,54,travelling,289
+3,February,44,gym,179
+3,February,35,travelling,139
+3,February,61,movies,279.23
+3,March,51,grocery,76
+3,March,86,grocery,117
+3,March,73,fine dining,89
+3,March,44,fine dining,76
+3,March,7,grocery,79
+3,March,43,fine dining,121.54
+3,March,91,rent,1174.18
+3,March,91,utilities,1322.55
+3,March,49,movies,230
+3,March,54,travelling,156
+3,March,75,movies,193
+3,March,27,gym,146
+3,March,78,movies,166
+3,March,90,travelling,132.99
+3,April,39,grocery,103
+3,April,19,grocery,145
+3,April,0,fine dining,166
+3,April,47,fast food,109
+3,April,54,grocery,150
+3,April,90,fast food,40.69
+3,April,35,rent,1054.09
+3,April,35,utilities,1323.75
+3,April,40,gym,154
+3,April,93,gym,188
+3,April,70,gym,203
+3,April,61,gym,111
+3,April,12,movies,239
+3,April,18,travelling,97.96
+3,May,16,grocery,129
+3,May,46,grocery,77
+3,May,73,grocery,145
+3,May,12,fast food,121
+3,May,70,fast food,80
+3,May,34,fast food,112
+3,May,13,grocery,18.66
+3,May,12,rent,1020.89
+3,May,12,utilities,1448.2
+3,May,6,travelling,238
+3,May,1,gym,237
+3,May,92,travelling,164
+3,May,59,travelling,173
+3,May,78,travelling,235
+3,May,46,travelling,8.02
+3,June,93,grocery,163
+3,June,8,grocery,91
+3,June,32,fast food,100
+3,June,0,grocery,125
+3,June,5,fine dining,172
+3,June,84,fine dining,93.72
+3,June,59,rent,1256.09
+3,June,59,utilities,1414.82
+3,June,78,travelling,132
+3,June,82,gym,152
+3,June,50,gym,285
+3,June,91,movies,305
+3,June,72,travelling,191
+3,June,69,movies,176.2
+3,July,99,grocery,68
+3,July,49,grocery,88
+3,July,94,fine dining,117
+3,July,96,grocery,107
+3,July,20,fine dining,100
+3,July,80,fast food,68
+3,July,14,fast food,41.57
+3,July,31,rent,1042.61
+3,July,31,utilities,1479.01
+3,July,93,gym,270
+3,July,69,movies,251
+3,July,20,movies,209
+3,July,43,travelling,151
+3,July,12,travelling,163
+3,July,90,travelling,124
+3,July,1,movies,73.2
+3,August,47,grocery,55
+3,August,54,grocery,66
+3,August,90,fine dining,57
+3,August,91,fast food,78
+3,August,78,fast food,78
+3,August,70,grocery,75
+3,August,44,fast food,56
+3,August,66,fine dining,0.45
+3,August,27,rent,1200.86
+3,August,27,utilities,1322.28
+3,August,9,travelling,148
+3,August,89,movies,190
+3,August,33,travelling,166
+3,August,20,travelling,217
+3,August,24,movies,183
+3,August,30,travelling,275.14
+3,September,51,fast food,97
+3,September,83,fine dining,135
+3,September,16,fast food,113
+3,September,59,fine dining,96
+3,September,89,grocery,141
+3,September,76,grocery,100
+3,September,17,fine dining,0.66
+3,September,3,rent,1013.44
+3,September,3,utilities,1417.25
+3,September,49,movies,244
+3,September,46,movies,176
+3,September,44,movies,214
+3,September,21,movies,231
+3,September,9,movies,271
+3,September,68,travelling,43.14
+3,October,81,fast food,118
+3,October,93,fast food,75
+3,October,77,fast food,74
+3,October,93,fast food,55
+3,October,8,grocery,84
+3,October,16,grocery,56
+3,October,47,fine dining,65.51
+3,October,58,rent,1226.31
+3,October,58,utilities,1601.3
+3,October,19,movies,165
+3,October,30,travelling,126
+3,October,20,gym,117
+3,October,73,travelling,168
+3,October,63,travelling,202
+3,October,72,gym,175
+3,October,60,travelling,39.96
+3,November,51,fast food,52
+3,November,84,grocery,66
+3,November,26,fine dining,112
+3,November,45,fast food,98
+3,November,71,grocery,54
+3,November,100,grocery,83.45
+3,November,87,rent,1353.22
+3,November,87,utilities,1506.94
+3,November,26,gym,229
+3,November,99,movies,219
+3,November,61,travelling,233
+3,November,68,travelling,182
+3,November,74,movies,98.93
+3,December,92,grocery,95
+3,December,100,fast food,51
+3,December,38,fine dining,57
+3,December,62,fast food,83
+3,December,14,grocery,114
+3,December,55,fast food,62
+3,December,90,fast food,34.48
+3,December,61,rent,1315.67
+3,December,61,utilities,1631.43
+3,December,39,movies,287
+3,December,27,gym,189
+3,December,13,gym,279
+3,December,12,gym,282
+3,December,95,gym,111.11
+4,January,36,fast food,90
+4,January,77,fast food,101
+4,January,96,fast food,81
+4,January,26,fast food,148
+4,January,93,fine dining,97
+4,January,80,grocery,85
+4,January,22,fine dining,69.27
+4,January,32,rent,1100.53
+4,January,32,utilities,1225.54
+4,January,30,movies,232
+4,January,49,movies,432
+4,January,3,movies,233
+4,January,38,gym,203
+4,January,88,gym,181
+4,January,17,movies,260
+4,January,12,movies,225.5
+4,February,51,grocery,145
+4,February,62,fast food,117
+4,February,55,grocery,131
+4,February,28,fast food,144
+4,February,90,grocery,82
+4,February,0,fine dining,52.27
+4,February,1,rent,952.14
+4,February,1,utilities,1227.03
+4,February,74,movies,288
+4,February,27,gym,265
+4,February,19,movies,376
+4,February,85,gym,220
+4,February,47,movies,302
+4,February,81,gym,103.52
+4,March,91,fine dining,101
+4,March,38,fast food,101
+4,March,29,fast food,121
+4,March,17,fine dining,114
+4,March,12,grocery,72
+4,March,33,fine dining,20.95
+4,March,47,rent,1181.44
+4,March,47,utilities,1330.73
+4,March,35,travelling,159
+4,March,64,gym,357
+4,March,65,gym,306
+4,March,38,gym,161
+4,March,9,gym,339
+4,March,37,gym,161.86
+4,April,67,fine dining,74
+4,April,19,grocery,63
+4,April,30,grocery,58
+4,April,21,fast food,100
+4,April,11,fine dining,74
+4,April,69,grocery,54.96
+4,April,73,rent,992.07
+4,April,73,utilities,1261.96
+4,April,95,travelling,202
+4,April,11,movies,211
+4,April,30,travelling,163
+4,April,52,movies,195
+4,April,83,movies,169
+4,April,0,gym,344
+4,April,28,movies,255
+4,April,59,travelling,15.52
+4,May,13,fast food,183
+4,May,53,fine dining,188
+4,May,93,grocery,133
+4,May,45,grocery,186
+4,May,98,fast food,87.26
+4,May,84,rent,1087.46
+4,May,84,utilities,1331.67
+4,May,75,travelling,358
+4,May,70,movies,217
+4,May,88,travelling,197
+4,May,72,gym,241
+4,May,90,movies,230
+4,May,32,gym,277
+4,May,64,movies,34.52
+4,June,64,fine dining,98
+4,June,88,fast food,124
+4,June,95,fast food,95
+4,June,64,fast food,110
+4,June,85,fine dining,68
+4,June,27,fine dining,70.28
+4,June,84,rent,903.03
+4,June,84,utilities,1262.85
+4,June,44,travelling,186
+4,June,26,movies,153
+4,June,82,gym,199
+4,June,64,travelling,187
+4,June,32,movies,236
+4,June,57,gym,259
+4,June,76,travelling,299.19
+4,July,74,grocery,101
+4,July,4,fine dining,102
+4,July,33,fast food,55
+4,July,1,grocery,68
+4,July,96,fast food,54
+4,July,70,fine dining,43.96
+4,July,50,rent,1231.25
+4,July,50,utilities,1436.22
+4,July,70,gym,284
+4,July,41,movies,229
+4,July,77,gym,256
+4,July,99,movies,169
+4,July,94,movies,370
+4,July,93,travelling,208
+4,July,90,gym,3.19
+4,August,20,fast food,148
+4,August,51,fine dining,75
+4,August,74,grocery,105
+4,August,17,grocery,85
+4,August,92,fine dining,92
+4,August,69,fast food,102
+4,August,75,fine dining,64.27
+4,August,18,rent,1086.4
+4,August,18,utilities,1437.67
+4,August,8,travelling,226
+4,August,76,gym,423
+4,August,45,gym,396
+4,August,81,movies,373
+4,August,11,gym,348.5
+4,September,96,fine dining,105
+4,September,28,fast food,105
+4,September,34,grocery,110
+4,September,87,grocery,146
+4,September,64,grocery,83
+4,September,37,grocery,89
+4,September,76,fast food,33.27
+4,September,98,rent,1130.56
+4,September,98,utilities,1401.89
+4,September,30,movies,231
+4,September,8,movies,223
+4,September,68,gym,259
+4,September,69,gym,194
+4,September,38,travelling,225
+4,September,5,movies,354
+4,September,65,gym,245.17
+4,October,39,fast food,173
+4,October,66,fast food,175
+4,October,72,fine dining,134
+4,October,75,grocery,78
+4,October,2,fast food,82
+4,October,40,fast food,99.93
+4,October,7,rent,1114.31
+4,October,7,utilities,1331.4
+4,October,30,gym,359
+4,October,96,travelling,276
+4,October,18,movies,360
+4,October,43,gym,395
+4,October,84,travelling,342
+4,October,53,travelling,34.5
+4,November,13,fast food,109
+4,November,35,fine dining,96
+4,November,90,fine dining,69
+4,November,51,grocery,81
+4,November,52,fine dining,121
+4,November,80,fast food,84
+4,November,80,fine dining,75.94
+4,November,5,rent,964.51
+4,November,5,utilities,1368.22
+4,November,71,movies,218
+4,November,100,movies,189
+4,November,22,gym,406
+4,November,55,travelling,434
+4,November,60,movies,425
+4,November,17,gym,129.83
+4,December,53,grocery,152
+4,December,34,grocery,142
+4,December,19,grocery,126
+4,December,7,fine dining,74
+4,December,40,fast food,90
+4,December,35,fast food,51.94
+4,December,29,rent,1127.73
+4,December,29,utilities,1331.26
+4,December,37,gym,200
+4,December,50,gym,196
+4,December,68,movies,332
+4,December,62,gym,263
+4,December,90,movies,214
+4,December,68,travelling,349.52
+5,January,15,grocery,38
+5,January,20,fast food,35
+5,January,41,grocery,45
+5,January,47,grocery,24
+5,January,70,fast food,28
+5,January,6,fine dining,14.38
+5,January,80,rent,243.38
+5,January,80,utilities,313.65
+5,January,53,movies,63
+5,January,29,travelling,125
+5,January,80,gym,125
+5,January,44,gym,101
+5,January,54,gym,62
+5,January,74,gym,77.14
+5,February,20,fine dining,23
+5,February,78,fast food,29
+5,February,60,fine dining,52
+5,February,34,fast food,25
+5,February,71,grocery,24
+5,February,33,fast food,55
+5,February,16,fast food,15.89
+5,February,79,rent,227.18
+5,February,79,utilities,300.64
+5,February,89,gym,81
+5,February,5,gym,82
+5,February,67,gym,99
+5,February,79,gym,66
+5,February,13,movies,75
+5,February,64,gym,133
+5,February,44,travelling,3.97
+5,March,92,fast food,33
+5,March,52,fine dining,27
+5,March,59,fast food,30
+5,March,55,fast food,26
+5,March,55,fast food,45
+5,March,3,fine dining,36.55
+5,March,68,rent,266.56
+5,March,68,utilities,300.24
+5,March,26,movies,131
+5,March,10,movies,82
+5,March,84,travelling,109
+5,March,63,gym,78
+5,March,5,travelling,120
+5,March,11,gym,33.14
+5,April,77,fast food,19
+5,April,98,grocery,22
+5,April,96,fine dining,32
+5,April,73,fine dining,26
+5,April,57,fast food,18
+5,April,58,grocery,20
+5,April,96,fine dining,7.87
+5,April,21,rent,269.59
+5,April,21,utilities,300.21
+5,April,1,gym,64
+5,April,33,movies,95
+5,April,47,travelling,68
+5,April,8,travelling,77
+5,April,46,travelling,112
+5,April,24,gym,76
+5,April,80,travelling,59
+5,April,57,gym,2.14
+5,May,13,grocery,21
+5,May,66,fine dining,23
+5,May,65,fine dining,35
+5,May,35,grocery,23
+5,May,0,grocery,31
+5,May,96,grocery,29
+5,May,22,fine dining,22.38
+5,May,100,rent,277.36
+5,May,100,utilities,352.82
+5,May,11,travelling,134
+5,May,5,movies,79
+5,May,41,gym,150
+5,May,29,travelling,150
+5,May,62,movies,69
+5,May,12,travelling,23.82
+5,June,46,fine dining,39
+5,June,65,fast food,65
+5,June,41,grocery,46
+5,June,32,grocery,42
+5,June,36,grocery,54
+5,June,73,fast food,30.57
+5,June,50,rent,272.62
+5,June,50,utilities,300.18
+5,June,65,travelling,137
+5,June,74,travelling,96
+5,June,38,movies,131
+5,June,50,movies,70
+5,June,41,movies,103
+5,June,38,travelling,42.48
+5,July,38,grocery,45
+5,July,26,grocery,38
+5,July,63,fine dining,31
+5,July,24,grocery,46
+5,July,69,grocery,29
+5,July,22,fine dining,8.55
+5,July,85,rent,256.81
+5,July,85,utilities,339.85
+5,July,89,travelling,72
+5,July,80,movies,84
+5,July,39,travelling,83
+5,July,64,travelling,51
+5,July,86,gym,67
+5,July,58,gym,115
+5,July,41,gym,41.63
+5,August,63,fine dining,44
+5,August,6,grocery,31
+5,August,87,fine dining,40
+5,August,73,grocery,27
+5,August,5,grocery,47
+5,August,85,grocery,51
+5,August,30,fine dining,36.57
+5,August,21,rent,356.38
+5,August,21,utilities,431.05
+5,August,25,travelling,149
+5,August,38,travelling,106
+5,August,4,travelling,150
+5,August,18,travelling,100
+5,August,88,gym,70
+5,August,51,movies,57.16
+5,September,92,fine dining,41
+5,September,47,grocery,61
+5,September,40,fine dining,54
+5,September,2,fine dining,40
+5,September,30,grocery,40
+5,September,68,fine dining,27.4
+5,September,66,rent,256.02
+5,September,66,utilities,313.52
+5,September,88,gym,90
+5,September,33,gym,118
+5,September,99,movies,95
+5,September,93,travelling,64
+5,September,7,gym,114
+5,September,64,movies,19.46
+5,October,14,grocery,36
+5,October,55,fast food,32
+5,October,97,fine dining,67
+5,October,34,fine dining,68
+5,October,96,fine dining,63
+5,October,46,fast food,10.57
+5,October,22,rent,291.32
+5,October,22,utilities,365.85
+5,October,23,movies,83
+5,October,38,movies,65
+5,October,64,travelling,137
+5,October,78,travelling,64
+5,October,59,travelling,66
+5,October,68,gym,66
+5,October,49,travelling,85.31
+5,November,57,fine dining,42
+5,November,47,grocery,33
+5,November,47,grocery,30
+5,November,4,fine dining,41
+5,November,67,grocery,25.21
+5,November,2,rent,254.44
+5,November,2,utilities,300.37
+5,November,21,gym,87
+5,November,12,movies,123
+5,November,2,movies,66
+5,November,83,travelling,101
+5,November,82,gym,98
+5,November,17,travelling,117.65
+5,December,1,fine dining,26
+5,December,36,fast food,42
+5,December,77,fast food,34
+5,December,63,fine dining,64
+5,December,82,fine dining,28
+5,December,89,fine dining,43
+5,December,89,fast food,26.4
+5,December,96,rent,257.47
+5,December,96,utilities,300.34
+5,December,87,gym,81
+5,December,54,gym,65
+5,December,36,movies,101
+5,December,30,gym,76
+5,December,61,movies,52
+5,December,32,movies,71
+5,December,23,travelling,63
+5,December,58,movies,4.63

@@ -1,5 +1,6 @@
 import random
 
+
 def data_generator(file_name, number_of_consumers):
 
     random.seed(100)
