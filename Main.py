@@ -32,4 +32,4 @@ for account_smart_scores in accounts_smart_scores:
 
 for account in accounts_overall_smart_score:
     print("Account: " + accounts[account].get_id() + " has overall smart score of: " +
-          str(accounts_overall_smart_score[account]))
+          str(round(accounts_overall_smart_score[account],2)))

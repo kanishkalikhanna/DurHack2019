@@ -2,7 +2,6 @@
 import csv
 import statistics
 
-
 class Account:
 
     def __init__(self, account_id):
@@ -38,15 +37,15 @@ class Account:
 
     def update_ideal_food_expenditure(self, month_food_expenditure):
         self.monthly_food_expenditure.append(month_food_expenditure)
-        self.ideal_food_expenditure = statistics.median(self.monthly_food_expenditure)
+        self.ideal_food_expenditure = statistics.median_low(self.monthly_food_expenditure)
 
     def update_ideal_accommodation_expenditure(self, month_accommodation_expenditure):
         self.monthly_accommodation_expenditure.append(month_accommodation_expenditure)
-        self.ideal_accommodation_expenditure = statistics.median(self.monthly_accommodation_expenditure)
+        self.ideal_accommodation_expenditure = statistics.median_low(self.monthly_accommodation_expenditure)
 
     def update_ideal_leisure_expenditure(self, month_leisure_expenditure):
         self.monthly_leisure_expenditure.append(month_leisure_expenditure)
-        self.ideal_leisure_expenditure = statistics.median(self.monthly_leisure_expenditure)
+        self.ideal_leisure_expenditure = statistics.median_low(self.monthly_leisure_expenditure)
 
 
 def scan_csv(file_name, accounts):
