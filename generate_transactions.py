@@ -9,10 +9,9 @@ def generate_data (file_name):
 
     monthly_spending = open(file_name)
     make_transactions = open("transactions.csv", "w")
-    make_transactions.write("id, month, necessity, sub type, amount")
+    make_transactions.write("ID,MONTH,NECESSITY,SUB TYPE,AMOUNT")
     i = 0
     for line in monthly_spending:
-
         if i > 0:
             parameters = line.split(',')
 
