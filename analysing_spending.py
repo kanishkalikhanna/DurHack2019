@@ -12,6 +12,8 @@ income = []
 food_exp = []
 accom_exp = []
 leisure_exp = []
+id_expenditure_plot_map = {}
+id_savings_plot_map = {}
 
 months_ordered = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October",
                   "November", "December"]
@@ -32,7 +34,7 @@ except FileNotFoundError:
     print("File not found")
     sys.exit(0)
 
-def plot_for_each_person(person_id):
+def plot_expenditure_for_each_person(person_id):
     income_for_person = []
     sum_each_month = []
     for person in range(len(user_id)):
@@ -47,7 +49,9 @@ def plot_for_each_person(person_id):
                  arrowprops=dict(facecolor='red', shrink=0.05), )
     barplot = plt.bar(months_ordered, sum_each_month, color='cadetblue')
     barplot[x_pos].set_color('aqua')
-    plt.plot(months_ordered, income_for_person)
+    plt.plot(months_ordered, income_for_person, label="Income")
+    plt.legend(loc="upper left")
+    legend(["Income"])
     plt.xticks(rotation=30)
     ylabel("£", rotation=0)
     xlabel("Months")
@@ -75,5 +79,5 @@ def sum_different_expenditures(person_id):
     return income_for_person, sum_each_month
 
 for i in range(1, len(set(user_id)) + 1):
-    plot_for_each_person(i)
+    plot_expenditure_for_each_person(i)
     plot_savings_for_each_person(i)
