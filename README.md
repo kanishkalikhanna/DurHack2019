@@ -16,6 +16,5 @@ and how much they spent on this transaction relative to others.
 Initially we were not very familiar with Git but over time we improved our collaboration skills. 
 We did spend a lot of time generating our data sets and figuring out how to analyse transactions.
 
-We are happy with what we achieved in our small diverse team of 3 especially in the short time frame. G
-iven more time we would like to provide users more information so that they can increase their savings rate as well 
+We are happy with what we achieved in our small diverse team of 3 especially in the short time frame. If we were given more time we would like to provide users more information so that they can increase their savings rate as well 
 as make better financial decisions.
