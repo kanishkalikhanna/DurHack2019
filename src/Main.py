@@ -1,6 +1,4 @@
-import transaction_classifier
-import target_spend_generator
-import generate_transactions
+from src import target_spend_generator, transaction_classifier, generate_transactions
 import os
 from tkinter import *
 os.system("python3 analysing_spending.py")
@@ -10,9 +8,9 @@ transactions = {}
 accounts_smart_scores = {}
 accounts_overall_smart_score = {}
 
-target_spend_generator.scan_csv("consumer_spending.csv", accounts)
-generate_transactions.generate_data("consumer_spending.csv")
-transaction_classifier.scan_csv("transactions.csv", transactions, accounts, accounts_smart_scores)
+target_spend_generator.scan_csv("data/consumer_spending.csv", accounts)
+generate_transactions.generate_data("data/consumer_spending.csv")
+transaction_classifier.scan_csv("data/transactions.csv", transactions, accounts, accounts_smart_scores)
 
 for account_smart_scores in accounts_smart_scores:
 

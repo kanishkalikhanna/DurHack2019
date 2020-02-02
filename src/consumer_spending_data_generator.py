@@ -34,4 +34,4 @@ def data_generator(file_name, number_of_consumers):
                 str(accommodation_expenditure) + "," + str(leisure_expenditure) + "," + str(total_expenditure))
 
 
-data_generator("consumer_spending.csv", 5)
+data_generator("data/consumer_spending.csv", 5)

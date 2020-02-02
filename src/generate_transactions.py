@@ -8,7 +8,7 @@ leisure_sub_type = ["travelling", "movies", "gym"]
 def generate_data(file_name):
     random.seed(100)
     monthly_spending = open(file_name)
-    make_transactions = open("transactions.csv", "w")
+    make_transactions = open("data/transactions.csv", "w")
     make_transactions.write("ID,MONTH,NECESSITY,SUB TYPE,AMOUNT")
     i = 0
     for line in monthly_spending:
@@ -49,4 +49,4 @@ def write_specific_transactions(amount_spent, make_transactions, parameters, tot
                                 sub_type_array[sub_type] + "," + str(round(amount_on_current_transaction,2)))
 
 
-generate_data("consumer_spending.csv")
+generate_data("data/consumer_spending.csv")

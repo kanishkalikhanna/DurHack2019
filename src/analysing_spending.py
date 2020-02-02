@@ -23,7 +23,7 @@ months_ordered = ["January", "February", "March", "April", "May", "June", "July"
 
 # Adding each column to an array
 try:
-    with open("consumer_spending.csv") as csv_file:
+    with open("../data/consumer_spending.csv") as csv_file:
         data = csv.reader(csv_file)
         header = next(data)
         data = csv.reader(csv_file, delimiter=',')
@@ -84,7 +84,7 @@ for i in range(1, len(set(user_id)) + 1):
     plot_expenditure_for_each_person(i)
     plot_savings_for_each_person(i)
 
-pdf = PdfPages("graphs.pdf")
+pdf = PdfPages("../graphs.pdf")
 for fig in figures:
     fig.savefig(pdf, format = 'pdf')
 pdf.close()
