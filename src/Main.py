@@ -1,7 +1,7 @@
 from src import target_spend_generator, transaction_classifier, generate_transactions
 import os
 from tkinter import *
-os.system("python3 analysing_spending.py")
+os.system("python3 src/analysing_spending.py")
 
 accounts = {}
 transactions = {}

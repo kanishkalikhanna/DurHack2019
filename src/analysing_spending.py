@@ -23,7 +23,7 @@ months_ordered = ["January", "February", "March", "April", "May", "June", "July"
 
 # Adding each column to an array
 try:
-    with open("../data/consumer_spending.csv") as csv_file:
+    with open("data/consumer_spending.csv") as csv_file:
         data = csv.reader(csv_file)
         header = next(data)
         data = csv.reader(csv_file, delimiter=',')
